@@ -1,2 +1,2 @@
-#!/biash
-pwd
+#!/bin/bash
+ls
